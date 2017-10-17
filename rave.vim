@@ -69,3 +69,4 @@ hi def link raveWord            Function
 hi def link raveConditional     Conditional
 hi def link raveSymbols         Number
 hi def link raveString          String
+hi def link raveOperator        Operator
